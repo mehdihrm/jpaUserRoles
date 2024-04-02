@@ -52,3 +52,8 @@ Execution :
 
 ![image](https://github.com/mehdihrm/jpaUserRoles/assets/83135160/c06e0089-183f-4911-8a8e-543b26e3236f)
 
+Base de données :
+
+![image](https://github.com/mehdihrm/jpaUserRoles/assets/83135160/b9b614f0-c389-4258-bb4c-0d40c1b47b58)
+
+
